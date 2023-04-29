@@ -1,4 +1,4 @@
-# InterviewVisualization
+# InterviewVisualization - Web Authoring Tool
 
 ###  Contributors:  
 Deeksha Adiani  
