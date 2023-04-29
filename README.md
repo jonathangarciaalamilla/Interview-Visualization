@@ -1,6 +1,6 @@
 # InterviewVisualization
 
-## Contributors:  
+### Contributors:  
 Deeksha Adiani  
 Amir Alam  
 Matt Fadler  
