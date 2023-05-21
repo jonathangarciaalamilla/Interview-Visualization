@@ -8,6 +8,8 @@
 - Emily Nguyen  
 - Jessica Urban   
 
+<img width="1009" alt="image" src="https://github.com/jonathangarciaalamilla/Interview-Visualization/assets/83881637/52bfdecc-8f97-4a46-a706-b4249c5f90a4">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
